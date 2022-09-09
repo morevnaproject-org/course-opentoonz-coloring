@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Export from Krita"
 permalink: /lesson-01/
 ---
