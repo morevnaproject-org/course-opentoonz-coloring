@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Export from Krita"
+title: "Экспорт анимации из Krita в OpenToonz (часть 1)"
 permalink: /lesson-01/
 ---
 
